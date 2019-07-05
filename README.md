@@ -6,4 +6,4 @@ This was a personal challenge to see if I could build a basic interest calculato
 
 Installation
 ----------------
-Firstly, you must have [Java](https://www.java.com) installed. The calculator can be run either in command line, or in Intellij/Exclipse.
+Firstly, you must have [Java](https://www.java.com) installed. The calculator can be run either in command line, or in Intellij/Eclipse.
